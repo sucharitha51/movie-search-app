@@ -1,0 +1,27 @@
+.suggestions {
+    display: flex;
+    flex-direction: column;
+    padding-left: 0;
+    margin-bottom: 0;
+    border: 1px solid white;
+    border-radius: 10px;
+    position: absolute;
+    top: 180px;
+    left: 10;
+    z-index: 1;
+    overflow-y: scroll;
+    width: 400px;
+    max-height: 400px;
+    margin-left: 415px;
+    width: 258px;
+    z-index: 999;
+    
+}
+
+.suggestionItem {
+    position: relative;
+    display: block;
+    padding: .75rem 1.25rem;
+    background-color: #fff;
+    border: 1px solid rgba(0,0,0,.125);
+}

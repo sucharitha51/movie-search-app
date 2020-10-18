@@ -1,0 +1,9 @@
+.castInfo {
+    display: inline-grid;
+    flex-direction: column;
+    margin: 15px ;
+    margin-bottom: 50px;
+    width: 100px;
+    height:150px;
+    padding-bottom: 20px;
+}

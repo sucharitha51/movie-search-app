@@ -1,0 +1,45 @@
+
+.searchInput { 
+    font-family:arial, sans-serif; 
+    border: 1px solid #26a69a; 
+}
+input.searchInput, .select-box{
+    width:100%;
+}
+.searchBox, .select-box{
+  white-space: nowrap;
+  float:left;
+}
+
+.field2 {
+  width: 250px;
+  z-index: 999;
+}
+.field3 {
+  margin-top: 20px;
+}
+
+.field1{
+  text-align: left;
+  padding: 10px;
+}
+
+ .container1 {
+  width: 50%;
+  align-items: center;
+ }
+
+* {
+  box-sizing: border-box;
+}
+
+.row {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.column {
+  flex: 25%;
+  padding: 10px;
+
+}
