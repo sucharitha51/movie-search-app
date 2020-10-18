@@ -1,4 +1,4 @@
-#  Todo App
+#  Movie Search App
 
 ## Description
 This is the demo movie search website. We can serach for movies, TV shows or persons. 
